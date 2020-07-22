@@ -9,6 +9,8 @@ Transform your traditional link into beautiful button
 ```
 import { beautylinks } from 'beautylinks';
 
+<a href="/go/to/somewhere" class="theLink">My Beauty Link</a>
+
 beautylinks({
   domID: 'theLink',
   padding: '10px',
