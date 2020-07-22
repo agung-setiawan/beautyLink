@@ -1,0 +1,24 @@
+{
+  "name": "beautylink",
+  "version": "1.1.0",
+  "description": "Transform your traditional link into beautiful button with much of options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agung-setiawan/beautyLink.git"
+  },
+  "keywords": [
+    "html",
+    "link",
+    "css"
+  ],
+  "author": "Agung Setiawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agung-setiawan/beautyLink/issues"
+  },
+  "homepage": "https://github.com/agung-setiawan/beautyLink#readme"
+}
