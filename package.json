@@ -1,6 +1,6 @@
 {
-  "name": "beautylink",
-  "version": "1.1.0",
+  "name": "beautylinks",
+  "version": "1.0.0",
   "description": "Transform your traditional link into beautiful button with much of options",
   "main": "index.js",
   "scripts": {

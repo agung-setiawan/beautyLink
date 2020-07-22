@@ -1,4 +1,4 @@
-function beautylink(options) {
+function beautylinks(options) {
   // Set Element Identifier by Class Name
   let domElement = document.getElementById(options.domID);
 
@@ -88,4 +88,4 @@ function beautylink(options) {
   domElement.style.textDecoration = "none";
 }
 
-module.exports.beautylink = beautylink;
+module.exports.beautylinks = beautylinks;

@@ -1,15 +1,15 @@
-# beautylink
+# beautylinks
 
 Transform your traditional link into beautiful button
 
 # Installation
 
-`npm i beautylink --save`
+`npm i beautylinks --save`
 
 ```
-import { beautylink } from 'beautylink';
+import { beautylinks } from 'beautylinks';
 
-beautylink({
+beautylinks({
   domID: 'theLink',
   padding: '10px',
   width: '100%',
@@ -44,8 +44,8 @@ support options :
 
 ## Credits
 
-beautylink - Created by Agung Setiawan
+beautylinks - Created by Agung Setiawan
 
 ## Next Features
 
-beautylink is one of my long term project call is Html Rocks, I will more and more additional project to make easy for create beautiful html style with ease implementation.
+beautylinks is one of my long term project call is Html Rocks, I will more and more additional project to make easy for create beautiful html style with ease implementation.
